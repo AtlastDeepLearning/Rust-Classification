@@ -93,5 +93,5 @@ Final Test Set (30 images, 10 per class):
 **Macro Avg:** Precision 0.97 • Recall 0.97 • F1-Score 0.97  
 **Weighted Avg:** Precision 0.97 • Recall 0.97 • F1-Score 0.97  
 
-![Alt Text](assets/your_image.png)
+![Alt Text](conf_matrix_training_5.png)
 
